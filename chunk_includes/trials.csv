@@ -1,0 +1,177 @@
+Set,Sentence,PrimeQuantifier,PrimeScope,Group,Verb,Prime_cor,Prim_incor,StimType,TrialOrder
+F13,Le peintre chatouille le m&eacutecanicien,,,List17,NA,f_artist_mechanic.bmp,f_artist_detective.bmp,Filler,1
+F38,Le peintre sent la chaise,,,List17,NA,f_painter_chair.bmp,f_photographer_chair.bmp,Filler,2
+F34,La reine tient la cha&icircne,,,List17,NA,f_queen_necklace.bmp,f_girlfriend_necklace.bmp,Filler,3
+P21,Chaque ballerine ne remarque pas le g&acircteau,chaque,negwide,List17,remarque,ballerina_cake_nwide.bmp,ballerina_cake_foil.bmp,Prime,4
+T21,Chaque manifestant ne remarque pas le drapeau,chaque,negwide,List17,remarque,protester_flag_uwide.bmp,protester_flag_nwide.bmp,Target,5
+F35,Le pr&eacutesentateur tient le cadeau,,,List17,NA,f_announcer_gift.bmp,f_announcer_loudhailer.bmp,Filler,6
+F09,La fille touche la f&eacutee,,,List17,NA,f_girl_fairy.bmp,f_girl_champion.bmp,Filler,7
+P14,Tous les enfant ne poursuivent pas le clown,tous,uwide,List17,poursuit,dwarf_clown_uwide.bmp,dwarf_clown_foil.bmp,Prime,8
+T14,Chaque lion ne poursuit pas le gardien,tous,uwide,List17,poursuit,lion_zookeeper_uwide.bmp,lion_zookeeper_nwide.bmp,Target,9
+F40,Le pr&ecirctre soul&egraveve la bible,,,List17,NA,f_preacher_bible.bmp,f_gangster_bible.bmp,Filler,10
+F06,La princesse embrasse le g&eacuteant,,,List17,NA,f_princess_giant.bmp,f_elf_giant.bmp,Filler,11
+P15,Tous les singes ne montent pas sur le mur,tous,uwide,List17,grimpe,monkey_wall_uwide.bmp,monkey_wall_foil.bmp,Prime,12
+T15,Chaque randonneur ne monte pas sur la colline,tous,uwide,List17,grimpe,hiker_hill_uwide.bmp,hiker_hill_nwide.bmp,Target,13
+F01,L'espion suit le roi,,,List17,NA,f_spy_king.bmp,f_spy_juggler.bmp,Filler,14
+P16,Tous les porteurs n'attrapent pas la valise,tous,uwide,List17,attrape,porter_suitcase_uwide.bmp,porter_suitcase_foil.bmp,Prime,15
+T16,Chaque cuisinier n'attrape pas l'assiette,tous,uwide,List17,attrape,chef_platter_uwide.bmp,chef_platter_nwide.bmp,Target,16
+F33,Le plongeur tient le troph&eacutee,,,List17,NA,f_diver_trophy.bmp,f_diver_bag.bmp,Filler,17
+F47,Le musicien joue de la harpe,,,List17,NA,f_performer_harp.bmp,f_performer_flute.bmp,Filler,18
+F26,L'athl&egravete boit le soda,,,List17,NA,f_athlete_soda.bmp,f_juggler_soda.bmp,Filler,19
+P22,Chaque serveur ne vole pas le sac &agrave main,chaque,negwide,List17,vole,waiter_handbag_nwide.bmp,waiter_handbag_foil.bmp,Prime,20
+T22,Chaque musicien ne vole pas le piano,chaque,negwide,List17,vole,musician_piano_uwide.bmp,musician_piano_nwide.bmp,Target,21
+F20,Le grimpeur mange la cuisse de poulet,,,List17,NA,f_climber_drumstick.bmp,f_convict_drumstick.bmp,Filler,22
+T20,Chaque jardinier ne regarde pas la pelle,,baseline,List17,regarde,gardener_spade_uwide.bmp,gardener_spade_nwide.bmp,Target,23
+F19,Le spectateur mange le hamburger,,,List17,NA,f_spectator_burger.bmp,f_spectator_banana.bmp,Filler,24
+F27,L'artiste boit la fl&ucircte de champagne,,,List17,NA,f_eccentric_champagne.bmp,f_eccentric_milkshake.bmp,Filler,25
+T07,Chaque p&egravelerin ne monte pass sur l'&acircne,,baseline,List17,monte,pilgrim_donkey_uwide.bmp,pilgrim_donkey_nwide.bmp,Target,26
+F30,L'actrice fait tomber le micro,,,List17,NA,f_actress_microphone.bmp,f_reporter_microphone.bmp,Filler,27
+F05,Le prince embrasse le crapaud,,,List17,NA,f_hunk_toad.bmp,f_hunk_kitten.bmp,Filler,28
+T17,Chaque hippie ne frappe pas le voyageur,,baseline,List17,frappe,hippie_backpacker_uwide.bmp,hippie_backpacker_nwide.bmp,Target,29
+F29,Le joueur de cricket fait tomber la casquette,,,List17,NA,f_cricketer_hat.bmp,f_cricketer_ball.bmp,Filler,30
+P24,Chaque gar&ccedilon ne regarde pas le golfeur,chaque,negwide,List17,regarde,boy_golfer_nwide.bmp,boy_golfer_foil.bmp,Prime,31
+T24,Chaque serveuse ne regarde pas le client,chaque,negwide,List17,regarde,waitress_customer_uwide.bmp,waitress_customer_nwide.bmp,Target,32
+F46,Le g&eacutenie joue de la trompette,,,List17,NA,f_genius_trumpet.bmp,f_bum_trumpet.bmp,Filler,33
+F08,Le coureur embrasse le poissonnier,,,List17,NA,f_jogger_fishmonger.bmp,f_schoolmistress_fishmonger.bmp,Filler,34
+P01,Chaque requin n'attaque pas le surfeur,chaque,uwide,List17,attaque,shark_surfer_uwide.bmp,shark_surfer_foil.bmp,Prime,35
+T01,Chaque &eacutetudiant n'attaque pas le professeur,chaque,uwide,List17,attaque,student_professor_uwide.bmp,student_professor_nwide.bmp,Target,36
+F42,L'aristocrate sent le cigare,,,List17,NA,f_pope_cigar.bmp,f_aristocrat_cigar.bmp,Filler,37
+P13,Tous les pirates n'attaqueons pas le navire,tous,uwide,List17,attaque,pirate_ship_uwide.bmp,pirate_ship_foil.bmp,Prime,38
+T13,Chaque fou n'attaque pas la sculpture,tous,uwide,List17,attaque,madman_sculpture_uwide.bmp,madman_sculpture_nwide.bmp,Target,39
+F44,Le d&eacutetective sent la soupe,,,List17,NA,f_detective_soup.bmp,f_burglar_soup.bmp,Filler,40
+F45,Le musicien joue de la guitare,,,List17,NA,f_entertainer_guitar.bmp,f_entertainer_accordion.bmp,Filler,41
+P11,Tous les cow-boys ne tapent pas l'agriculteur,tous,negwide,List17,tape,cowboy_farmer_nwide.bmp,cowboy_farmer_foil.bmp,Prime,42
+T11,Chaque garde du corps ne tape pas le fan,tous,negwide,List17,tape,bodyguard_fan_uwide.bmp,bodyguard_fan_nwide.bmp,Target,43
+F14,Le torero chatouille le presentateur,,,List17,NA,f_matador_speaker.bmp,f_courier_speaker.bmp,Filler,44
+T18,Chaque nonne ne touche pas le b&eacuteb&eacute,,baseline,List17,touche,nun_baby_uwide.bmp,nun_baby_nwide.bmp,Target,45
+F17,Le chauffeur mange la glace,,,List17,NA,f_driver_icecream.bmp,f_driver_popcorn.bmp,Filler,46
+T05,Chaque acteur ne frappe pas le cam&eacuteraman,,baseline,List17,frappe,actor_cameraman_uwide.bmp,actor_cameraman_nwide.bmp,Target,47
+F48,Le vieil homme joue du violon,,,List17,NA,f_grandfather_violin.bmp,f_maestro_violin.bmp,Filler,48
+F16,L'enfant chatouille le violiniste,,,List17,NA,f_grandchild_virtuoso.bmp,f_stewardess_virtuoso.bmp,Filler,49
+F10,L'astronaute touche le malade,,,List17,NA,f_astronaut_patient.bmp,f_preacher_patient.bmp,Filler,50
+P02,Chaque chien ne poursuit pas l'&eacutecureuil,chaque,uwide,List17,poursuit,dog_squirrel_uwide.bmp,dog_squirrel_foil.bmp,Prime,51
+T02,Chaque agent de s&eacutecurit&eacute ne poursuit pas l'agent de propr&eacutet&eacute,chaque,uwide,List17,poursuit,bouncer_cleaner_uwide.bmp,bouncer_cleaner_nwide.bmp,Target,52
+F18,Le batteur mange la pizza,,,List17,NA,f_drummer_pizza.bmp,f_lifeguard_pizza.bmp,Filler,53
+F02,Le rockeur suit le sprinter,,,List17,NA,f_rocker_sprinter.bmp,f_reporter_sprinter.bmp,Filler,54
+T06,Chaque femme au foyer ne touche pas le vendeur,,baseline,List17,touche,housewife_salesman_uwide.bmp,housewife_salesman_nwide.bmp,Target,55
+F11,La f&eacutee touche le dragon,,,List17,NA,f_pixie_dragon.bmp,f_pixie_unicorn.bmp,Filler,56
+F37,L'adolescent sent la bo&icircte,,,List17,NA,f_bully_box.bmp,f_bully_knife.bmp,Filler,57
+F21,Le barman attrape la bouteille,,,List17,NA,f_bartender_bottle.bmp,f_bartender_spoon.bmp,Filler,58
+P12,Tous les gardes ne regardent pas le prisonnier,tous,negwide,List17,regarde,guard_prisoner_nwide.bmp,guard_prisoner_foil.bmp,Prime,59
+T12,Chaque &eacutecoli&egravere ne regarde pas l'oiseau,tous,negwide,List17,regarde,schoolgirl_bird_uwide.bmp,schoolgirl_bird_nwide.bmp,Target,60
+F22,Le mineur attrape la pierre,,,List17,NA,f_miner_rock.bmp,f_adventurer_rock.bmp,Filler,61
+F39,Le participant soul&egraveve la m&eacutedaille,,,List17,NA,f_contestant_medal.bmp,f_contestant_baton.bmp,Filler,62
+F32,L'amiral fait tomber le pistolet,,,List17,NA,f_admiral_gun.bmp,f_terrorist_gun.bmp,Filler,63
+P23,Chaque servante ne tape pas le plombier,chaque,negwide,List17,tape,maid_plumber_nwide.bmp,maid_plumber_foil.bmp,Prime,64
+T23,Chaque joueur de football ne tape pas le policier,chaque,negwide,List17,tape,footballer_policeman_uwide.bmp,footballer_policeman_nwide.bmp,Target,65
+F36,L'h&ocirctesse de l'air tient le carafe,,,List17,NA,f_stewardess_jug.bmp,f_cook_jug.bmp,Filler,66
+F43,L'ange sent la fleur,,,List17,NA,f_angel_flower.bmp,f_angel_perfume.bmp,Filler,67
+F03,Le vampire suit l'invit&eacute,,,List17,NA,f_vampire_guest.bmp,f_vampire_jester.bmp,Filler,68
+P04,Chaque voleur n'attrape pas le sac,chaque,uwide,List17,attrape,thief_sack_uwide.bmp,thief_sack_foil.bmp,Prime,69
+T04,Chaque chevalier n'attrape pas l'&eacutep&eacutee,chaque,uwide,List17,attrape,knight_sword_uwide.bmp,knight_sword_nwide.bmp,Target,70
+F25,L'ouvrier boit la bi&egravere,,,List17,NA,f_workman_beer.bmp,f_workman_milk.bmp,Filler,71
+F23,La sir&egravene attrape le peigne,,,List17,NA,f_mermaid_comb.bmp,f_mermaid_crown.bmp,Filler,72
+F07,L'agent de propret&eacute embrasse l'infirmi&egravere,,,List17,NA,f_caretaker_matron.bmp,f_caretaker_infant.bmp,Filler,73
+P09,Tous les matelots ne remarquent pas l'avion,tous,negwide,List17,remarque,sailor_airplane_nwide.bmp,sailor_airplane_foil.bmp,Prime,74
+T09,Chaque homme d'affaires ne remarque pas le journal,tous,negwide,List17,remarque,commuter_newspaper_uwide.bmp,commuter_newspaper_nwide.bmp,Target,75
+F28,La damme boit le cocktail,,,List17,NA,f_diva_cocktail.bmp,f_priest_cocktail.bmp,Filler,76
+P03,Chaque enfant ne grimpe pas &agrave l'arbre,chaque,uwide,List17,grimpe,kid_tree_uwide.bmp,kid_tree_foil.bmp,Prime,77
+T03,Chaque acrobate ne grimpe pas &agrave la corde,chaque,uwide,List17,grimpe,acrobat_rope_uwide.bmp,acrobat_rope_nwide.bmp,Target,78
+F15,Le v&eacutet&eacuterinaire chatouille le chiot,,,List17,NA,f_vet_puppy.bmp,f_vet_pony.bmp,Filler,79
+F04,Le skateur suit le philosophe,,,List17,NA,f_skateboarder_philosopher.bmp,f_interviewer_philosopher.bmp,Filler,80
+T08,Chaque invit&eacute ne regarde pas le g&acircteau,,baseline,List17,regarde,diner_pudding_uwide.bmp,diner_pudding_nwide.bmp,Target,81
+F24,Le bricoleur attrape le pinceau,,,List17,NA,f_handyman_paintbrush.bmp,f_schoolmistress_paintbrush.bmp,Filler,82
+F31,Le joueur de baseball fait tomber la batte,,,List17,NA,f_opponent_bat.bmp,f_opponent_racket.bmp,Filler,83
+F12,Le batteur touche le culturiste,,,List17,NA,f_drummer_bodybuilder.bmp,f_socialite_bodybuilder.bmp,Filler,84
+T19,Chaque sorci&egravere ne monte pase sur le balais,,baseline,List17,monte,witch_broomstick_uwide.bmp,witch_broomstick_nwide.bmp,Target,85
+F41,Le politicien sent le vin,,,List17,NA,f_politician_wine.bmp,f_politician_fish.bmp,Filler,86
+P10,Tous les voleurs ne volent pas la voiture,tous,negwide,List17,vole,robber_car_nwide.bmp,robber_car_foil.bmp,Prime,87
+T10,Chaque homme ne vole pas le lit,tous,negwide,List17,vole,tramp_bed_uwide.bmp,tramp_bed_nwide.bmp,Target,88
+F01,L'espion suit le roi,,,List22,NA,f_spy_king.bmp,f_spy_juggler.bmp,Filler,1
+F32,L'amiral fait tomber le pistolet,,,List22,NA,f_admiral_gun.bmp,f_terrorist_gun.bmp,Filler,2
+F41,Le politicien sent le vin,,,List22,NA,f_politician_wine.bmp,f_politician_fish.bmp,Filler,3
+P15,Chaque singe ne monte pas sur le mur,chaque,uwide,List22,grimpe,monkey_wall_uwide.bmp,monkey_wall_foil.bmp,Prime,4
+T15,Chaque randonneur ne monte pas sur la colline,chaque,uwide,List22,grimpe,hiker_hill_uwide.bmp,hiker_hill_nwide.bmp,Target,5
+F33,Le plongeur tient le troph&eacutee,,,List22,NA,f_diver_trophy.bmp,f_diver_bag.bmp,Filler,6
+F28,La damme boit le cocktail,,,List22,NA,f_diva_cocktail.bmp,f_priest_cocktail.bmp,Filler,7
+F16,L'enfant chatouille le violiniste,,,List22,NA,f_grandchild_virtuoso.bmp,f_stewardess_virtuoso.bmp,Filler,8
+T21,Chaque manifestant ne remarque pas le drapeau,,baseline,List22,remarque,protester_flag_uwide.bmp,protester_flag_nwide.bmp,Target,9
+F13,Le peintre chatouille le m&eacutecanicien,,,List22,NA,f_artist_mechanic.bmp,f_artist_detective.bmp,Filler,10
+P08,Chaque renard ne regarde pas le g&acircteau,chaque,negwide,List22,regarde,fox_pie_nwide.bmp,fox_pie_foil.bmp,Prime,11
+T08,Chaque invit&eacute ne regarde pas le g&acircteau,chaque,negwide,List22,regarde,diner_pudding_uwide.bmp,diner_pudding_nwide.bmp,Target,12
+F02,Le rockeur suit le sprinter,,,List22,NA,f_rocker_sprinter.bmp,f_reporter_sprinter.bmp,Filler,13
+P01,Tous les requins n'attaquent pas le surfeur,tous,uwide,List22,attaque,shark_surfer_uwide.bmp,shark_surfer_foil.bmp,Prime,14
+T01,Chaque &eacutetudiant n'attaque pas le professeur,tous,uwide,List22,attaque,student_professor_uwide.bmp,student_professor_nwide.bmp,Target,15
+F24,Le bricoleur attrape le pinceau,,,List22,NA,f_handyman_paintbrush.bmp,f_schoolmistress_paintbrush.bmp,Filler,16
+F39,Le participant soul&egraveve la m&eacutedaille,,,List22,NA,f_contestant_medal.bmp,f_contestant_baton.bmp,Filler,17
+F48,Le vieil homme joue du violon,,,List22,NA,f_grandfather_violin.bmp,f_maestro_violin.bmp,Filler,18
+T11,Chaque garde du corps ne tape pas le fan,,baseline,List22,tape,bodyguard_fan_uwide.bmp,bodyguard_fan_nwide.bmp,Target,19
+F19,Le spectateur mange le hamburger,,,List22,NA,f_spectator_burger.bmp,f_spectator_banana.bmp,Filler,20
+F03,Le vampire suit l'invit&eacute,,,List22,NA,f_vampire_guest.bmp,f_vampire_jester.bmp,Filler,21
+P06,Chaque tout-petit ne touchent pas le vicaire,chaque,negwide,List22,touche,toddler_vicar_nwide.bmp,toddler_vicar_foil.bmp,Prime,22
+T06,Chaque femme au foyer ne touche pas le vendeur,chaque,negwide,List22,touche,housewife_salesman_uwide.bmp,housewife_salesman_nwide.bmp,Target,23
+F46,Le g&eacutenie joue de la trompette,,,List22,NA,f_genius_trumpet.bmp,f_bum_trumpet.bmp,Filler,24
+T09,Chaque homme d'affaires ne remarque pas le journal,,baseline,List22,remarque,commuter_newspaper_uwide.bmp,commuter_newspaper_nwide.bmp,Target,25
+F30,L'actrice fait tomber le micro,,,List22,NA,f_actress_microphone.bmp,f_reporter_microphone.bmp,Filler,26
+P05,Chaque mendiant ne frappe pas le journaliste,chaque,negwide,List22,frappe,beggar_reporter_nwide.bmp,beggar_reporter_foil.bmp,Prime,27
+T05,Chaque acteur ne frappe pas le cam&eacuteraman,chaque,negwide,List22,frappe,actor_cameraman_uwide.bmp,actor_cameraman_nwide.bmp,Target,28
+F43,L'ange sent la fleur,,,List22,NA,f_angel_flower.bmp,f_angel_perfume.bmp,Filler,29
+F47,Le musicien joue de la harpe,,,List22,NA,f_performer_harp.bmp,f_performer_flute.bmp,Filler,30
+F36,L'h&ocirctesse de l'air tient le carafe,,,List22,NA,f_stewardess_jug.bmp,f_cook_jug.bmp,Filler,31
+P02,Tous les chiens ne poursuivent pas l'&eacutecureuil,tous,uwide,List22,poursuit,dog_squirrel_uwide.bmp,dog_squirrel_foil.bmp,Prime,32
+T02,Chaque agent de s&eacutecurit&eacute ne poursuit pas l'agent de propr&eacutet&eacute,tous,uwide,List22,poursuit,bouncer_cleaner_uwide.bmp,bouncer_cleaner_nwide.bmp,Target,33
+F26,L'athl&egravete boit le soda,,,List22,NA,f_athlete_soda.bmp,f_juggler_soda.bmp,Filler,34
+P07,Chaque enfant ne monte pas sur l'&eacutel&eacutephant,chaque,negwide,List22,monte,child_elephant_nwide.bmp,child_elephant_foil.bmp,Prime,35
+T07,Chaque p&egravelerin ne monte pass sur l'&acircne,chaque,negwide,List22,monte,pilgrim_donkey_uwide.bmp,pilgrim_donkey_nwide.bmp,Target,36
+F20,Le grimpeur mange la cuisse de poulet,,,List22,NA,f_climber_drumstick.bmp,f_convict_drumstick.bmp,Filler,37
+F12,Le batteur touche le culturiste,,,List22,NA,f_drummer_bodybuilder.bmp,f_socialite_bodybuilder.bmp,Filler,38
+P03,Tous les enfants ne grimpent pas &agrave l'arbre,tous,uwide,List22,grimpe,kid_tree_uwide.bmp,kid_tree_foil.bmp,Prime,39
+T03,Chaque acrobate ne grimpe pas &agrave la corde,tous,uwide,List22,grimpe,acrobat_rope_uwide.bmp,acrobat_rope_nwide.bmp,Target,40
+F22,Le mineur attrape la pierre,,,List22,NA,f_miner_rock.bmp,f_adventurer_rock.bmp,Filler,41
+P04,Tous les voleurs n'attrapent pas le sac,tous,uwide,List22,attrape,thief_sack_uwide.bmp,thief_sack_foil.bmp,Prime,42
+T04,Chaque chevalier n'attrape pas l'&eacutep&eacutee,tous,uwide,List22,attrape,knight_sword_uwide.bmp,knight_sword_nwide.bmp,Target,43
+F42,L'aristocrate sent le cigare,,,List22,NA,f_pope_cigar.bmp,f_aristocrat_cigar.bmp,Filler,44
+F45,Le musicien joue de la guitare,,,List22,NA,f_entertainer_guitar.bmp,f_entertainer_accordion.bmp,Filler,45
+P20,Tous les touristes ne regardent pas la statue,tous,negwide,List22,regarde,tourist_statue_nwide.bmp,tourist_statue_foil.bmp,Prime,46
+T20,Chaque jardinier ne regarde pas la pelle,tous,negwide,List22,regarde,gardener_spade_uwide.bmp,gardener_spade_nwide.bmp,Target,47
+F18,Le batteur mange la pizza,,,List22,NA,f_drummer_pizza.bmp,f_lifeguard_pizza.bmp,Filler,48
+T23,Chaque joueur de football ne tape pas le policier,,baseline,List22,tape,footballer_policeman_uwide.bmp,footballer_policeman_nwide.bmp,Target,49
+F15,Le v&eacutet&eacuterinaire chatouille le chiot,,,List22,NA,f_vet_puppy.bmp,f_vet_pony.bmp,Filler,50
+T10,Chaque homme ne vole pas le lit,,baseline,List22,vole,tramp_bed_uwide.bmp,tramp_bed_nwide.bmp,Target,51
+F17,Le chauffeur mange la glace,,,List22,NA,f_driver_icecream.bmp,f_driver_popcorn.bmp,Filler,52
+F35,Le pr&eacutesentateur tient le cadeau,,,List22,NA,f_announcer_gift.bmp,f_announcer_loudhailer.bmp,Filler,53
+P19,Tous les &eacutecoliers ne montent pas dans le bus,tous,negwide,List22,monte,schoolboy_bus_nwide.bmp,schoolboy_bus_foil.bmp,Prime,54
+T19,Chaque sorci&egravere ne monte pase sur le balais,tous,negwide,List22,monte,witch_broomstick_uwide.bmp,witch_broomstick_nwide.bmp,Target,55
+F07,L'agent de propret&eacute embrasse l'infirmi&egravere,,,List22,NA,f_caretaker_matron.bmp,f_caretaker_infant.bmp,Filler,56
+F11,La f&eacutee touche le dragon,,,List22,NA,f_pixie_dragon.bmp,f_pixie_unicorn.bmp,Filler,57
+F38,Le peintre sent la chaise,,,List22,NA,f_painter_chair.bmp,f_photographer_chair.bmp,Filler,58
+P16,Chaque porteur n'attrape pas la valise,chaque,uwide,List22,attrape,porter_suitcase_uwide.bmp,porter_suitcase_foil.bmp,Prime,59
+T16,Chaque cuisinier n'attrape pas l'assiette,chaque,uwide,List22,attrape,chef_platter_uwide.bmp,chef_platter_nwide.bmp,Target,60
+F14,Le torero chatouille le presentateur,,,List22,NA,f_matador_speaker.bmp,f_courier_speaker.bmp,Filler,61
+F21,Le barman attrape la bouteille,,,List22,NA,f_bartender_bottle.bmp,f_bartender_spoon.bmp,Filler,62
+T24,Chaque serveuse ne regarde pas le client,,baseline,List22,regarde,waitress_customer_uwide.bmp,waitress_customer_nwide.bmp,Target,63
+F37,L'adolescent sent la bo&icircte,,,List22,NA,f_bully_box.bmp,f_bully_knife.bmp,Filler,64
+F25,L'ouvrier boit la bi&egravere,,,List22,NA,f_workman_beer.bmp,f_workman_milk.bmp,Filler,65
+P14,Chaque enfant ne poursuit pas le clown,chaque,uwide,List22,poursuit,dwarf_clown_uwide.bmp,dwarf_clown_foil.bmp,Prime,66
+T14,Chaque lion ne poursuit pas le gardien,chaque,uwide,List22,poursuit,lion_zookeeper_uwide.bmp,lion_zookeeper_nwide.bmp,Target,67
+F29,Le joueur de cricket fait tomber la casquette,,,List22,NA,f_cricketer_hat.bmp,f_cricketer_ball.bmp,Filler,68
+F23,La sir&egravene attrape le peigne,,,List22,NA,f_mermaid_comb.bmp,f_mermaid_crown.bmp,Filler,69
+F27,L'artiste boit la fl&ucircte de champagne,,,List22,NA,f_eccentric_champagne.bmp,f_eccentric_milkshake.bmp,Filler,70
+T12,Chaque &eacutecoli&egravere ne regarde pas l'oiseau,,baseline,List22,regarde,schoolgirl_bird_uwide.bmp,schoolgirl_bird_nwide.bmp,Target,71
+F09,La fille touche la f&eacutee,,,List22,NA,f_girl_fairy.bmp,f_girl_champion.bmp,Filler,72
+F04,Le skateur suit le philosophe,,,List22,NA,f_skateboarder_philosopher.bmp,f_interviewer_philosopher.bmp,Filler,73
+F40,Le pr&ecirctre soul&egraveve la bible,,,List22,NA,f_preacher_bible.bmp,f_gangster_bible.bmp,Filler,74
+T22,Chaque musicien ne vole pas le piano,,baseline,List22,vole,musician_piano_uwide.bmp,musician_piano_nwide.bmp,Target,75
+F44,Le d&eacutetective sent la soupe,,,List22,NA,f_detective_soup.bmp,f_burglar_soup.bmp,Filler,76
+F05,Le prince embrasse le crapaud,,,List22,NA,f_hunk_toad.bmp,f_hunk_kitten.bmp,Filler,77
+F08,Le coureur embrasse le poissonnier,,,List22,NA,f_jogger_fishmonger.bmp,f_schoolmistress_fishmonger.bmp,Filler,78
+P18,Toutes les infirmi&egraveres ne touchent pas le boxeur,tous,negwide,List22,touche,nurse_boxer_nwide.bmp,nurse_boxer_foil.bmp,Prime,79
+T18,Chaque nonne ne touche pas le b&eacuteb&eacute,tous,negwide,List22,touche,nun_baby_uwide.bmp,nun_baby_nwide.bmp,Target,80
+F06,La princesse embrasse le g&eacuteant,,,List22,NA,f_princess_giant.bmp,f_elf_giant.bmp,Filler,81
+F34,La reine tient la cha&icircne,,,List22,NA,f_queen_necklace.bmp,f_girlfriend_necklace.bmp,Filler,82
+P17,Tous les professeurs ne frappent pas l'adolescent,tous,negwide,List22,frappe,teacher_teenager_nwide.bmp,teacher_teenager_foil.bmp,Prime,83
+T17,Chaque hippie ne frappe pas le voyageur,tous,negwide,List22,frappe,hippie_backpacker_uwide.bmp,hippie_backpacker_nwide.bmp,Target,84
+F10,L'astronaute touche le malade,,,List22,NA,f_astronaut_patient.bmp,f_preacher_patient.bmp,Filler,85
+F31,Le joueur de baseball fait tomber la batte,,,List22,NA,f_opponent_bat.bmp,f_opponent_racket.bmp,Filler,86
+P13,Chaque pirate n'attaque pas le navire,chaque,uwide,List22,attaque,pirate_ship_uwide.bmp,pirate_ship_foil.bmp,Prime,87
+T13,Chaque fou n'attaque pas la sculpture,chaque,uwide,List22,attaque,madman_sculpture_uwide.bmp,madman_sculpture_nwide.bmp,Target,88
